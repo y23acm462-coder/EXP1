@@ -1,0 +1,5 @@
+this is file3
+apple
+banana
+pine apple
+mango
